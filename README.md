@@ -10,23 +10,26 @@ A simple CLI tool for generating React components with a predefined folder struc
 
 ## Installation
 
-1. Clone the repository or download the package.
+You can either clone the git or install with npm:
+
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/mukundkumra/react-component-generator
    cd react-component-generator
+   npm link
    ```
 
 2. Install the package:
 
    ```bash
-   npm install
+   npm i -g @mukundkumra/react-component-generator
    ```
 
-3. To link the package globally for easy command line usage, run:
+   or
 
    ```bash
-   npm link
+   npm i --save-dev @mukundkumra/react-component-generator
    ```
 
 ## Usage
@@ -93,14 +96,6 @@ export default Home;
 .Home {
     /* Add your styles here */
 }
-```
-
-## Running Tests
-
-To ensure the functionality of the package, run the tests using:
-
-```bash
-npm test
 ```
 
 ## Contributing
