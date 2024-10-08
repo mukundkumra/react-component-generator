@@ -26,12 +26,6 @@ You can either clone the git or install with npm:
    npm i -g @mukundkumra/react-component-generator
    ```
 
-   or
-
-   ```bash
-   npm i --save-dev @mukundkumra/react-component-generator
-   ```
-
 ## Usage
 
 To generate a React component, use the command:
