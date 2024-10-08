@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "react-component-generator"
+    "url": "https://github.com/mukundkumra/react-component-generator"
   },
   "keywords": [
     "react",
@@ -21,5 +21,8 @@
     "scaffold"
   ],
   "author": "Mukund Kumra",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
 }
