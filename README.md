@@ -13,7 +13,7 @@ A simple CLI tool for generating React components with a predefined folder struc
 1. Clone the repository or download the package.
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/mukundkumra/react-component-generator
    cd react-component-generator
    ```
 
