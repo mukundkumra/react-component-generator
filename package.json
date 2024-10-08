@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A simple CLI tool to quickly generate React component folders with JSX and CSS files. The package scaffolds a folder with a React component template that includes imports for the CSS file and a functional component ready for editing.",
   "main": "index.js",
+  "bin": {
+    "gen": "./index.js"
+  },
   "scripts": {
     "test": "echo \\\"No tests specified\\\" && exit 0"
   },
