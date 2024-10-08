@@ -1,5 +1,5 @@
 {
-  "name": "react-component-generator",
+  "name": "@mukundkumra/react-component-generator",
   "version": "1.0.0",
   "description": "A simple CLI tool to quickly generate React component folders with JSX and CSS files. The package scaffolds a folder with a React component template that includes imports for the CSS file and a functional component ready for editing.",
   "main": "index.js",
